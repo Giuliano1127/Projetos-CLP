@@ -5,15 +5,6 @@ Este repositório reúne **projetos acadêmicos e experimentais de automação i
 ## 📂 Estrutura do repositório
 
 Cada pasta contém um projeto com:
-- Programa completo em Ladder (Cadsimu, LOGO! Soft Comfort ou software equivalente)  
+- Programa completo em Ladder (Codesys)  
 - Prints ou GIFs da simulação  
 - Documentação básica do processo e lógica de funcionamento  
-
-## ⚡ Destaques
-
-
-
-## 📌 Outros projetos
-
-
----.
