@@ -39,6 +39,20 @@ O ciclo de produção é dividido nas seguintes etapas sequenciais:
 * **Ações:** O sistema aguarda **1 minuto** adicional para garantir a drenagem completa da linha e do tanque.
 * **Fim do Ciclo:** Todos os atuadores são desligados. O sistema entra em estado de repouso, pronto para iniciar a produção de um novo lote.
 
+##Imagens
+
+
+<img width="1366" height="748" alt="image" src="https://github.com/user-attachments/assets/74ac8136-2a34-4542-b85f-9fc5c5b88c7f" />
+
+
+<img width="1366" height="432" alt="image" src="https://github.com/user-attachments/assets/556b4aba-ecba-43aa-a946-f033a8dd3e25" />
+
+
+<img width="1366" height="573" alt="image" src="https://github.com/user-attachments/assets/0c6ce568-39a1-4018-865e-ef4af71d05e9" />
+
+
+<img width="1362" height="398" alt="image" src="https://github.com/user-attachments/assets/6b3d28df-7f67-44f3-beb1-ef9354943fbb" />
+
 ---
 
 ## 📂 Arquivo do projeto.
