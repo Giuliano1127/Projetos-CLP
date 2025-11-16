@@ -41,11 +41,9 @@ O ciclo de produção é dividido nas seguintes etapas sequenciais:
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Arquivo do projeto.
 
-* **`README.md`**: Este documento.
-* **`Tintas.project`**: Arquivos de código-fonte do projeto (ex: arquivos Ladder ou do CODESYS).
-* **`docs/`**: Documentos de referência técnica (Rede de Petri, Diagrama da Planta, Enunciado).
+[(ARQUIVOS.PROJ)Projeto_Tintas.zip](https://github.com/user-attachments/files/23570763/ARQUIVOS.PROJ.Projeto_Tintas.zip)
 
 ---
 
